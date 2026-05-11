@@ -1,4 +1,4 @@
-# ✈️ স্বর্গ ট্রাভেলস — Responsive Travel Agency Website
+# Agency Website — Responsive Travel Agency Website
 
 <p align="center">
   A modern and fully responsive Travel Agency Website built using <strong>HTML, CSS & Bootstrap</strong>.
