@@ -17,7 +17,8 @@ This project focuses on clean UI design, responsive layouts, smooth user experie
 
 ## 🖼️ Project Preview
 
-![Project Preview](project-overview.png)
+<img width="1920" height="6152" alt="image" src="https://github.com/user-attachments/assets/1453cb5f-f8ed-409e-89ae-f775744282b8" />
+
 
 > Replace `project-overview.png` with your actual screenshot file name.
 
